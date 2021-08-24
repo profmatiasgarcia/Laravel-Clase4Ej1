@@ -27,7 +27,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-4. Deberá crear en su motor de base de datos la BD llamada **laravl** y ejecutar el servicio.
+4. Deberá crear en su motor de base de datos la BD llamada **laravel** y ejecutar el servicio.
 
 5. Para crear la tabla de migraciones en la BD se deberá ejecutar desde la Terminal de VS Code o del OS estando en la carpeta del proyecto
 ```bash
