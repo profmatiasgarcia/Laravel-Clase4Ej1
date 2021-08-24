@@ -3,6 +3,7 @@
 
   * Utilización de Jetstream
   * Ejemplo aplicación con autenticación
+  * Ejemplo CRUD con autenticación
 
 ## Como instalar y utilizar este ejemplo
 
